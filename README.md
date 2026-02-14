@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Project
 
-#### 🎭 [Playwright SDET Pro](https://github.com/sarang2199/playwright-sdet-pro)
+#### 🎭 [Playwright SDET Pro](https://github.com/Sarang2199/Playwright_Automation)
 > End-to-End Automation Framework built with Playwright + JavaScript
 
 **Key Highlights:**
@@ -105,26 +105,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang2199&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sarang2199" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang2199&show_icons=true&locale=en&theme=tokyonight" alt="sarang2199" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarang2199&theme=tokyonight" alt="sarang2199" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="www.linkedin.com/in/sarang-ghayal" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
