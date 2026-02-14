@@ -1,8 +1,8 @@
 ![MasterHead](https://img.freepik.com/free-vector/laptop-software-assisting-testing-process-tiny-people-testers-automated-testing-automotive-executed-test-software-auto-tester-concept_335657-2437.jpg?size=626&ext=jpg&ga=GA1.1.950949883.1696567038&semt=ais)
 
 <h1 align="center">Hi 👋, I'm Sarang Ghayal</h1>
-<h3 align="center">SDET | Quality Engineering Analyst | Automation Engineer</h3>
-<h4 align="center">Passionate about building robust automation frameworks using Playwright, Selenium & Java. Experienced in both Manual and Automation Testing with a strong focus on delivering high-quality software.</h4>
+<h3 align="center">SDET | Quality Engineering Specialist</h3>
+<h4 align="center">Quality Engineering Specialist with 4.5 years of experience in Web UI and API automation. Proven track record in architecting modular frameworks using Playwright and Selenium. Experienced in leading automation POCs, achieving 97% test coverage, and delivering high-quality solutions across PLM and Banking domains.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarang2199&label=Profile%20views&color=0e75b6&style=flat" alt="sarang2199" /> </p>
 
@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Playwright Automation Framework (JavaScript/TypeScript)**
-- 🌱 I'm currently learning **Jenkins CI/CD & API Automation**
+- 🔭 I'm currently working on **Playwright Automation Framework (JavaScript)**
+- 🌱 I'm currently learning **Jenkins CI/CD & Docker**
 - 💡 I recently built a **Playwright framework with POM, Data-Driven Testing & HTML Reports**
-- 💬 Ask me about **Playwright, Selenium, Java, Postman, Manual Testing**
-- 📫 How to reach me: **sarangsanjayghayal@gmail.com**
+- 💬 Ask me about **Playwright, JavaScript, Postman, Manual Testing**
+- 📫 How to reach me: **ssarangghayal@gmail.com**
 
 ---
 
@@ -57,11 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-
 <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -92,11 +87,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-<!-- Azure -->
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-</a>
-
 </p>
 
 ---
@@ -105,11 +95,11 @@
 
 | Area | Skills |
 |------|--------|
-| **Automation** | Playwright, Selenium WebDriver, TestNG, Cucumber |
-| **Languages** | JavaScript, TypeScript, Java |
+| **Automation** | Playwright, Selenium WebDriver, TestNG |
+| **Languages** | JavaScript, Java |
 | **API Testing** | Postman, REST APIs |
 | **Frameworks** | Page Object Model, Data-Driven, BDD |
-| **Reporting** | Playwright HTML Reports, Extent Reports |
+| **Reporting** | Playwright HTML Reports, Extent Reports, Allure Reports |
 | **CI/CD** | Jenkins, GitHub Actions |
 | **Tools** | Git, Azure DevOps, JIRA, MySQL |
 
